@@ -7,8 +7,10 @@ Horus es una aplicación multiplataforma para experimentar con el `escáner 3D l
 
 Proporciona una interfaz gráfica que permite conectarse al escáner, controlar sus dispositivos, ajustar los parámetros de escaneado, autocalibrar el dispositivo y escanear objetos en 3D con Ciclop. Incluye además un visualizador de la nube de puntos obtenida en tiempo real.
 
-Ha sido creado por `bqlabs`_, el Departamento de Innovación y Robótica de `BQ`_, desarrollado en `Python`_ y liberado bajo la licencia `GPLv2`_.
+.. image:: ../images/main-window.png
+   :scale: 80 %
 
+Ha sido creado por `bqlabs`_, el Departamento de Innovación y Robótica de `BQ`_, desarrollado en `Python`_ y liberado bajo la licencia `GPLv2`_.
 
 .. _escáner 3D libre Ciclop: https://github.com/bqlabs/ciclop
 .. _bqlabs: https://github.com/bqlabs
