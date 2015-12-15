@@ -1,0 +1,4 @@
+.. _sec-escaneo:
+
+Escaneo
+=======

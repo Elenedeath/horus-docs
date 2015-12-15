@@ -1,4 +1,4 @@
-.. _sec-configuration:
+.. _sec-guia-rapida:
 
 Guía rápida
 ===========
@@ -6,6 +6,6 @@ Guía rápida
 .. toctree::
    :maxdepth: 2
 
-   condiciones-iniciales.rst
+   introduccion.rst
    wizard.rst
    escaneado.rst
