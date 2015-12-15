@@ -24,13 +24,14 @@ En esta ventana se realiza la conexión del escáner, el ajuste de la luminosida
 * Editar ajustes: este botón despliega una ventana en la que se puede ajustar la exposición de la cámara en función de la luminosidad de la escena. Una luminosidad alta implica una menor exposición en la cámara y viceversa.
 
 * Auto-comprobación: para realizar este proceso es necesario colocar el patrón correctamente sobre la plataforma, como indica la figura. Este proceso realiza una vuelta completa de la plataforma determinando:
+
   * Detección del patrón: indica si el patrón no se ha detectado correctamente por problemas de luminosidad o brillo.
   * Dirección del motor: detecta si el motor ha sido conectado al revés e indica cómo corregirlo.
   * Detección de los láseres: detecta si los láserses han sido conectados correctamente y están operativos.
 
 .. figure:: ../images/wizard-autocheck.png
 
-Nota: la primera vez que se pulsa auto-comprobación, indica si se desean alinear los láseres. Esto es para modificar manualmente la orientación de los láseres hasta que emitan una línea perpendicular a la plataforma.
+**Nota**: la primera vez que se pulsa auto-comprobación, indica si se desean alinear los láseres. Esto es para modificar manualmente la orientación de los láseres hasta que emitan una línea perpendicular a la plataforma.
 
 Ventana de calibración
 ----------------------
@@ -51,9 +52,11 @@ Ventana de escaneo
 En esta ventana se ajustan los parámetros de escaneo:
 
 * Resolución: está relacionada con el número de pasos por vuelta del motor.
+
   * Alta: 800 pasos (0.45º)
   * Media: 400 pasos (0.9º)
   * Baja: 200 pasos (1.8º)
+
 * Laser: se selecciona el láser izquierdo, derecho o ambos.
 
 .. figure:: ../images/wizard-scanning.png
