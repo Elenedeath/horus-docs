@@ -28,7 +28,7 @@ Se puede navegar en el visualizador 3D mediante los siguientes accesos rápidos:
 +----------------------------------+--------------------------------+-----------------------+
 | Desplazamiento vertical          | Ctrl + Rueda ratón             | Ctrl + Arriba/Abajo   |
 +----------------------------------+--------------------------------+-----------------------+
-| Resetear desplazamiento vertical | Doble clic izquierdo           | column 3              |
+| Resetear desplazamiento vertical | Doble clic izquierdo           |                       |
 +----------------------------------+--------------------------------+-----------------------+
 | Traslación                       | Shift + Clic Izquierdo         |                       |
 +----------------------------------+--------------------------------+-----------------------+
